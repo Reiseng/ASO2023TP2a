@@ -1,0 +1,4 @@
+A simple vista se ve que hay un problema de sincronizacion, haciendo que el primer hilo termine de comer hamburguesas
+antes que el segundo hilo.
+
+Se le conoce como Race condition y se soluciona implementando bloqueos o semaforos
